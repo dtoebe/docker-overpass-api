@@ -1,4 +1,4 @@
-FROM ubuntu:trusty
+FROM ubuntu:cosmic
 
 MAINTAINER Tom Fenton <tom@mediasuite.co.nz>
 
